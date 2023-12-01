@@ -3,9 +3,6 @@
 A template for [Advent of Code](https://adventofcode.com/) write in JavaScript.
 
 ---
-
---
-
 Folder structure:
 
 ```
