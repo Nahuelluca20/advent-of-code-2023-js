@@ -8,13 +8,13 @@ Folder structure:
 ```
 ├── aoc
 │   └── day01
-│       ├── __main__.py
-│       ├── part1.py
-│       ├── part2.py
+│       ├── __main__.js
+│       ├── part1.js
+│       ├── part2.js
 │       ├── README.md
 │       └── resources
 │           └── input.txt
 └── tests
-    ├── conftest.py
-    └── test_day01.py
+    ├── conftest.js
+    └── test_day01.js
 ```
